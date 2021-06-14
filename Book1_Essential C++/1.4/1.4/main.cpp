@@ -16,7 +16,7 @@ int main() {
 		<< user_last_name
 		<< "... and goodbye! \n";
 
-	system("pause");// 按任意键后结束程序
+	system("pause");// press any key to exit ....
 
 	return 0;
 }
